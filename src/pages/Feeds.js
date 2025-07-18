@@ -4,7 +4,7 @@ const announcements = [
   {
     title: 'Announcement: New Store Opening Announcement – 2467 Pace, FL',
     date: 'Jul 14, 2025',
-    image: '/assets/feeds/feed1.jpg',
+    image: '/assets/feeds/fcb4d27b-2dd4-4987-a070-0287e8b57708.png',
   },
   {
     title: 'Announcement: New Store Opening – 1484 Melissa, TX',
